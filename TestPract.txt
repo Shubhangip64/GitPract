@@ -1,1 +1,2 @@
 hi,this is first file in github
+red wine is my favorite color
